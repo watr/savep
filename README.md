@@ -12,7 +12,7 @@ $ brew install savep
 # Usage
 
 ```
-$ echo "Hello savep!" >> `savep`
+$ echo "Hello savep!" >> "`savep`"
 ```
 
 ![](demo-screenshot.png)
